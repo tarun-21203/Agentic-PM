@@ -1,0 +1,11 @@
+frontend/node_modules/
+backend/.gradle/
+backend/build/
+frontend/dist/
+terraform/.terraform.lock.hcl
+terraform/errored.tfstate
+terraform/.terraform/
+terraform/bootstrap/.terraform/
+terraform/bootstrap/terraform.tfstate
+terraform/bootstrap/terraform.tfstate.backup
+.idea/
